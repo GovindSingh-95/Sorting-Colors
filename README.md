@@ -29,9 +29,4 @@ Consider an Array arr and 3 variables low,mid,high,<br>
   else<br>
   just increase value of mid by 1
 </p>
-<h2>Code snippet</h2>
-<p>
-  code is in java language
-  ![image](https://github.com/GovindSingh-95/Sorting-Colors/assets/156602160/b93a0a7d-4c12-40c4-8f7f-6ed55e1adf77)
 
-</p>
